@@ -1,0 +1,8 @@
+{
+  "name": "GTV",
+  "description": "All in one",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "EDITTHIS"
+  ]
+}
