@@ -3,6 +3,6 @@
   "description": "All in one",
   "manifestVersion": 1,
   "pluginLists": [
-    "EDITTHIS"
+    "https://raw.githubusercontent.com/Rxngo/GTV/70eeead1e73ab210252a11ff5a7f7fffbc7d5cae/plugins.json"
   ]
 }
