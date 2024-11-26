@@ -64,50 +64,6 @@
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/CodeStream.cs3",
         "name": "CodeStream"
-},
-
-
-{
-        "iconUrl": "https://gcdnb.pbrd.co/images/EUFfBt2oH1Nv.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
-        "fileSize": 275303,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Hexated",
-            "Sora"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Anime",
-            "Movie"
-        ],
-        "version": 228,
-        "internalName": "SoraStream",
-        "description": "#1 best extention based on MultiAPI",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/SoraStream.cs3",
-        "name": "SoraStream"
-},
-
-{
-        "iconUrl": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/master/logos/ultima.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Rowdy-Avocado/Rowdycado-Extensions",
-        "fileSize": 188513,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "RowdyRushya"
-        ],
-        "tvTypes": [
-            "All"
-        ],
-        "version": 41,
-        "internalName": "Ultima",
-        "description": "The ultimate All-in-One home screen to access all of your extensions at one place (You need to select/deselect sections in Ultima's settings to load other extensions on home screen)",
-        "url": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/Ultima.cs3",
-        "name": "Ultima"
 }
+
 ]
