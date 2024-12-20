@@ -41,7 +41,26 @@
         "url": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/Aniwave.cs3",
         "name": "Aniwave"
 },
-
+        
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hianime.to&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Rowdy-Avocado/Rowdycado-Extensions",
+        "fileSize": 56629,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Stormunblessed, KillerDogeEmpire"
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 5,
+        "internalName": "HiAnime",
+        "url": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/HiAnime.cs3",
+        "name": "HiAnime"
+},
 
 {
         "iconUrl": "https://www.google.com/s2/favicons?domain=uncutmaza.cc&sz=%size%",
