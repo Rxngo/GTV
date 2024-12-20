@@ -1,27 +1,6 @@
 [
 
 {
-        "iconUrl": "https://cdn.discordapp.com/attachments/1109266606292488297/1200425504432472176/Anichi.png?ex=65eb0c5f&is=65d8975f&hm=974898b22b08774a5caa835b40546a6419280446b68255147dd1febb3abe9119&",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Rowdy-Avocado/Rowdycado-Extensions",
-        "fileSize": 56842,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
-        ],
-        "version": 11,
-        "internalName": "Anichi",
-        "url": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/Anichi.cs3",
-        "name": "Anichi"
-},
-
-{
         "iconUrl": "https://aniwave.best/aniwave/images/favicon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Rowdy-Avocado/Rowdycado-Extensions",
