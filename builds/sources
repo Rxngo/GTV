@@ -1,48 +1,6 @@
 [
-
 {
-        "iconUrl": "https://aniwave.best/aniwave/images/favicon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Rowdy-Avocado/Rowdycado-Extensions",
-        "fileSize": 57191,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "RowdyRushya, Horis, Stormunblessed, KillerDogeEmpire, Enimax, Chokerman"
-        ],
-        "tvTypes": [
-            "Anime",
-            "OVA"
-        ],
-        "version": 63,
-        "internalName": "Aniwave",
-        "description": "Watch Aniwave/9anime, I have had reports saying homepage doesn't work the first time but retrying should fix it",
-        "url": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/Aniwave.cs3",
-        "name": "Aniwave"
-},
-        
-{
-        "iconUrl": "https://www.google.com/s2/favicons?domain=hianime.to&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Rowdy-Avocado/Rowdycado-Extensions",
-        "fileSize": 56629,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Stormunblessed, KillerDogeEmpire"
-        ],
-        "tvTypes": [
-            "Anime",
-            "OVA"
-        ],
-        "version": 5,
-        "internalName": "HiAnime",
-        "url": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/HiAnime.cs3",
-        "name": "HiAnime"
-},
-
-{
-        "iconUrl": "https://www.google.com/s2/favicons?domain=uncutmaza.cc&sz=%size%",
+        "iconUrl": "https://gcdnb.pbrd.co/images/g1pYtxSCovuJ.webp?o=1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Rowdy-Avocado/Rowdycado-Extensions",
         "fileSize": 333971,
@@ -58,10 +16,48 @@
             "Movie"
         ],
         "version": 10,
-        "internalName": "CodeStream",
+        "internalName": "1. CodeStream",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/CodeStream.cs3",
         "name": "CodeStream"
+},
+{
+        "iconUrl": "https://aniwave.best/aniwave/images/favicon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Rowdy-Avocado/Rowdycado-Extensions",
+        "fileSize": 57189,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "RowdyRushya, Horis, Stormunblessed, KillerDogeEmpire, Enimax, Chokerman"
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 63,
+        "internalName": "2. Aniwave",
+        "description": "Aniwave/9anime",
+        "url": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/Aniwave.cs3",
+        "name": "Aniwave"
+},
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hianime.to&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Rowdy-Avocado/Rowdycado-Extensions",
+        "fileSize": 56629,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Stormunblessed, KillerDogeEmpire"
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 5,
+        "internalName": "3. HiAnime",
+        "url": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/HiAnime.cs3",
+        "name": "HiAnime"
 }
-
 ]
