@@ -1,13 +1,14 @@
 [
 {
-        "iconUrl": "https://gcdnb.pbrd.co/images/g1pYtxSCovuJ.webp?o=1",
+        "iconUrl": "https://github.com/stantanasi/streamflix/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Rowdy-Avocado/Rowdycado-Extensions",
-        "fileSize": 333971,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 410896,
         "status": 1,
         "language": "en",
         "authors": [
-            "KillerDogeEmpire, Phisher98, Hexated, Sora"
+            "Phisher98",
+            "Hexated"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -15,11 +16,11 @@
             "Anime",
             "Movie"
         ],
-        "version": 10,
-        "internalName": "1. CodeStream",
+        "version": 105,
+        "internalName": "StreamPlay",
         "description": "#1 best extention based on MultiAPI",
-        "url": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/CodeStream.cs3",
-        "name": "CodeStream"
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
+        "name": "1. StreamPlay"
 },
 {
         "iconUrl": "https://aniwave.best/aniwave/images/favicon.png",
@@ -36,10 +37,10 @@
             "OVA"
         ],
         "version": 63,
-        "internalName": "2. Aniwave",
+        "internalName": "Aniwave",
         "description": "Aniwave/9anime",
         "url": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/Aniwave.cs3",
-        "name": "Aniwave"
+        "name": "2. Aniwave"
 },
 {
         "iconUrl": "https://www.google.com/s2/favicons?domain=hianime.to&sz=%size%",
@@ -56,8 +57,8 @@
             "OVA"
         ],
         "version": 5,
-        "internalName": "3. HiAnime",
+        "internalName": "HiAnime",
         "url": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/HiAnime.cs3",
-        "name": "HiAnime"
+        "name": "3. HiAnime"
 }
 ]
