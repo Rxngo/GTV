@@ -3,7 +3,7 @@
         "iconUrl": "https://github.com/stantanasi/streamflix/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 467966,
+        "fileSize": 467356,
         "status": 1,
         "language": "en",
         "authors": [
@@ -16,9 +16,9 @@
             "Anime",
             "Movie"
         ],
-        "version": 126,
+        "version": 132,
         "internalName": "StreamPlay",
-        "description": "#1 best extention based on MultiAPI",
+        "description": "#1 best extension based on MultiAPI",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
         "name": "1. StreamPlay"
 },
@@ -26,7 +26,7 @@
         "iconUrl": "https://aniwave.best/aniwave/images/favicon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Rowdy-Avocado/Rowdycado-Extensions",
-        "fileSize": 57189,
+        "fileSize": 56029,
         "status": 1,
         "language": "en",
         "authors": [
@@ -46,7 +46,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=hianime.to&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Rowdy-Avocado/Rowdycado-Extensions",
-        "fileSize": 63210,
+        "fileSize": 63713,
         "status": 1,
         "language": "en",
         "authors": [
@@ -56,7 +56,7 @@
             "Anime",
             "OVA"
         ],
-        "version": 12,
+        "version": 13,
         "internalName": "HiAnime",
         "url": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/HiAnime.cs3",
         "name": "3. HiAnime"
