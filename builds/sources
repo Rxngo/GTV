@@ -3,20 +3,19 @@
         "iconUrl": "https://github.com/stantanasi/streamflix/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 467356,
+        "fileSize": 553606,
         "status": 1,
         "language": "en",
-        "authors": [
+         "authors": [
             "Phisher98",
-            "Hexated"
+            "Hexated",
+            "salman731"
         ],
         "tvTypes": [
-            "AsianDrama",
             "TvSeries",
-            "Anime",
             "Movie"
         ],
-        "version": 132,
+        "version": 190,
         "internalName": "StreamPlay",
         "description": "#1 best extension based on MultiAPI",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
@@ -46,7 +45,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=hianime.to&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Rowdy-Avocado/Rowdycado-Extensions",
-        "fileSize": 63713,
+        "fileSize": 58900,
         "status": 1,
         "language": "en",
         "authors": [
@@ -56,7 +55,7 @@
             "Anime",
             "OVA"
         ],
-        "version": 13,
+        "version": 14,
         "internalName": "HiAnime",
         "url": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/HiAnime.cs3",
         "name": "3. HiAnime"
@@ -73,9 +72,7 @@
             "Sora"
         ],
         "tvTypes": [
-            "AsianDrama",
             "TvSeries",
-            "Anime",
             "Movie"
         ],
         "version": 228,
