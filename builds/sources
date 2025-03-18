@@ -3,7 +3,7 @@
         "iconUrl": "https://github.com/stantanasi/streamflix/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 598700,
+        "fileSize": 616515,
         "status": 1,
         "language": "en",
          "authors": [
@@ -15,7 +15,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 201,
+        "version": 218,
         "internalName": "StreamPlay",
         "description": "#1 best extension based on MultiAPI",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
