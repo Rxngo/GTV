@@ -45,7 +45,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=hianime.to&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Rowdy-Avocado/Rowdycado-Extensions",
-        "fileSize": 58900,
+        "fileSize": 58985,
         "status": 1,
         "language": "en",
         "authors": [
@@ -55,7 +55,7 @@
             "Anime",
             "OVA"
         ],
-        "version": 14,
+        "version": 15,
         "internalName": "HiAnime",
         "url": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/HiAnime.cs3",
         "name": "3. HiAnime"
