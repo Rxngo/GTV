@@ -3,7 +3,7 @@
         "iconUrl": "https://github.com/stantanasi/streamflix/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 644906,
+        "fileSize": 653362,
         "status": 1,
         "language": "en",
          "authors": [
@@ -15,49 +15,52 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 246,
+        "version": 250,
         "internalName": "StreamPlay",
         "description": "#1 best extension based on MultiAPI",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
         "name": "1. StreamPlay"
 },
 {
-        "iconUrl": "https://aniwave.best/aniwave/images/favicon.png",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.co&sz=%size%",
+        "jarFileSize": 109727,
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Rowdy-Avocado/Rowdycado-Extensions",
-        "fileSize": 56029,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 24871,
         "status": 1,
         "language": "en",
         "authors": [
-            "RowdyRushya, Horis, Stormunblessed, KillerDogeEmpire, Enimax, Chokerman"
+            "Phisher98,Hexated,Peerless"
         ],
         "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
             "Anime",
-            "OVA"
+            "Movie"
         ],
-        "version": 63,
-        "internalName": "Aniwave",
-        "description": "Aniwave/9anime",
-        "url": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/Aniwave.cs3",
-        "name": "2. Aniwave"
+        "version": 9,
+        "internalName": "KisskhProvider",
+        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KisskhProvider.jar",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KisskhProvider.cs3",
+        "name": "2. Kisskh"
 },
 {
         "iconUrl": "https://www.google.com/s2/favicons?domain=hianime.to&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Rowdy-Avocado/Rowdycado-Extensions",
-        "fileSize": 58985,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 26740,
         "status": 1,
         "language": "en",
         "authors": [
-            "Stormunblessed, KillerDogeEmpire"
+            "Stormunblessed, KillerDogeEmpire,RowdyRushya,Phisher98"
         ],
         "tvTypes": [
             "Anime",
             "OVA"
         ],
-        "version": 15,
+        "version": 4,
         "internalName": "HiAnime",
-        "url": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/HiAnime.cs3",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/HiAnime.cs3",
         "name": "3. HiAnime"
 },
 {
