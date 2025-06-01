@@ -3,7 +3,7 @@
         "iconUrl": "https://github.com/stantanasi/streamflix/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 682544,
+        "fileSize": 695609,
         "status": 1,
         "language": "en",
          "authors": [
@@ -15,7 +15,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 266,
+        "version": 279,
         "internalName": "StreamPlay",
         "description": "#1 best extension based on MultiAPI",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
@@ -48,7 +48,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=hianime.to&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 27726,
+        "fileSize": 31816,
         "status": 1,
         "language": "en",
         "authors": [
@@ -58,7 +58,7 @@
             "Anime",
             "OVA"
         ],
-        "version": 7,
+        "version": 9,
         "internalName": "HiAnime",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/HiAnime.cs3",
         "name": "3. HiAnime"
