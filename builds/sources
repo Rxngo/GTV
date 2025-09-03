@@ -3,52 +3,32 @@
         "iconUrl": "https://github.com/stantanasi/streamflix/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 740256,
+        "fileSize": 762285,
         "status": 1,
         "language": "en",
-         "authors": [
+        "authors": [
             "Phisher98",
-            "Hexated",
-            "salman731"
+            "Hexated"
         ],
         "tvTypes": [
+            "AsianDrama",
             "TvSeries",
-            "Movie"
+            "Anime",
+            "Movie",
+            "Cartoon",
+            "AnimeMovie"
         ],
-        "version": 365,
+        "version": 384,
         "internalName": "StreamPlay",
         "description": "#1 best extension based on MultiAPI",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
         "name": "1. StreamPlay"
 },
 {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.co&sz=%size%",
-        "jarFileSize": 109727,
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 25175,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Phisher98,Hexated,Peerless"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Anime",
-            "Movie"
-        ],
-        "version": 11,
-        "internalName": "KisskhProvider",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KisskhProvider.jar",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KisskhProvider.cs3",
-        "name": "2. Kisskh"
-},
-{
         "iconUrl": "https://www.google.com/s2/favicons?domain=hianime.to&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 37027,
+        "fileSize": 40485,
         "status": 1,
         "language": "en",
         "authors": [
@@ -58,10 +38,10 @@
             "Anime",
             "OVA"
         ],
-        "version": 16,
+        "version": 19,
         "internalName": "HiAnime",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/HiAnime.cs3",
-        "name": "3. HiAnime"
+        "name": "2. HiAnime"
 },
 {
         "iconUrl": "https://github.com/stantanasi/streamflix/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
@@ -82,6 +62,6 @@
         "internalName": "SoraStream",
         "description": "",
         "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/SoraStream.cs3",
-        "name": "4. SoraStream"
+        "name": "3. SoraStream"
 }
 ]
