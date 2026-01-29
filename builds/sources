@@ -3,7 +3,7 @@
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 867120,
+        "fileSize": 975389,
         "status": 1,
         "language": "en",
         "authors": [
@@ -18,7 +18,7 @@
             "Cartoon",
             "AnimeMovie"
         ],
-        "version": 496,
+        "version": 527,
         "internalName": "StreamPlay",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
@@ -28,7 +28,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=hianime.to&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 48614,
+        "fileSize": 53922,
         "status": 1,
         "language": "en",
         "authors": [
@@ -38,13 +38,13 @@
             "Anime",
             "OVA"
         ],
-        "version": 27,
+        "version": 29,
         "internalName": "HiAnime",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/HiAnime.cs3",
         "name": "HiAnime"
 },
 {
-        "iconUrl": "https://play-lh.googleusercontent.com/upJNGUAGQ0Z_w1-qL086YajD5NhPLRbVmwMWjx9IVoEey5dsg-AEKbKYF8rrtx_lGg",
+        "iconUrl": "https://cdn.discordapp.com/attachments/1109266606292488297/1193122096159674448/2-modified.png?ex=65ec2a0a&is=65d9b50a&hm=f1e0b0165e71101e5440b47592d9e15727a6c00cdeb3512108067bfbdbef1af7&",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
         "fileSize": 275303,
@@ -55,12 +55,14 @@
             "Sora"
         ],
         "tvTypes": [
+            "AsianDrama",
             "TvSeries",
+            "Anime",
             "Movie"
         ],
         "version": 228,
         "internalName": "SoraStream",
-        "description": "",
+        "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/SoraStream.cs3",
         "name": "SoraStream"
 },
@@ -68,7 +70,7 @@
         "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/UHDmoviesProvider/icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 44415,
+        "fileSize": 51727,
         "status": 1,
         "language": "en",
         "authors": [
@@ -78,7 +80,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 29,
+        "version": 32,
         "internalName": "UHDmoviesProvider",
         "description": "Indian Multi-language 4K Provider",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/UHDmoviesProvider.cs3",
@@ -88,7 +90,7 @@
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.showbox.media/&size=256",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 109214,
+        "fileSize": 117109,
         "status": 1,
         "language": "en",
         "authors": [
